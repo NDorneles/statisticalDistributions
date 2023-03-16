@@ -1,5 +1,6 @@
 normal <- function(x, mu = 1, sigma = 0, cul = FALSE) {
-  #Normal distribuction of x. mu stands for mean, sigma stands for standard deviation and cul stands for the acummulative function, where FALSE is the defaul value.
+  #Normal distribuction of x. mu stands for mean, sigma stands for standard deviation and cul stands for the cumulative function.
+  #Default values: mu equals 1, sigma equals = 0 and cul equals FALSE
   if (cul == FALSE) {
     y <- 1 / sigma / sqrt(2 * pi) * exp(-0.5 * ((x - mu) / sigma)**2)
   }
