@@ -6,4 +6,5 @@
   <li>Simpson's Rule for numerical integration of the error funciton</li>
   <li>Normal distribution</li>
   <li>Log-normal distribution</li>
+  <li>Weibull distribution</li>
 </ul>
