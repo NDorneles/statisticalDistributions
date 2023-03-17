@@ -7,4 +7,5 @@
   <li>Normal distribution</li>
   <li>Log-normal distribution</li>
   <li>Weibull distribution</li>
+  <li>Laplace distribution</li>
 </ul>
