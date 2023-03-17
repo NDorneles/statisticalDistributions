@@ -5,4 +5,5 @@
   <li>Normal error integral function</li>
   <li>Simpson's Rule for numerical integration of the error funciton</li>
   <li>Normal distribution</li>
+  <li>Log-normal distribution</li>
 </ul>
