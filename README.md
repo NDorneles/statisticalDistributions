@@ -8,6 +8,6 @@
   <li>Log-normal distribution</li>
   <li>Weibull distribution</li>
   <li>Laplace distribution</li>
-  <li>Complete and incomplete Gamma integral functions and their numerical methods of resolution</li>
+  <li>Complete and incomplete Gamma integral functions and theirs numerical methods of resolution</li>
   <li>Gamma distribution</li>
 </ul>
