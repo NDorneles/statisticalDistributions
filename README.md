@@ -1,4 +1,4 @@
-# statisticalDistribuctions
+# statisticalDistributions
 
 <h3>A simple idea for implementation of <strong>statistical distributions functions</strong>. It includes:</h3>
 <ul>
@@ -8,4 +8,5 @@
   <li>Log-normal distribution</li>
   <li>Weibull distribution</li>
   <li>Laplace distribution</li>
+  <li>Complete and incomplete Gamma integral functions and it numerical methods of resolution</li>
 </ul>
