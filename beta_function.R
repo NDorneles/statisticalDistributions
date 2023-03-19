@@ -26,7 +26,7 @@ incomplete_beta <- function(x, DF1, DF2) {
   return(sum_integral)
 }
 
-beta_regulatizadora <- function(x, DF1, DF2){
+regularized_beta <- function(x, DF1, DF2) {
   #Regularized beta function of x with its degrees of freedom 
   i <- incomplete_beta(x, DF1, DF2) / complete_beta(DF1, DF2)
   return(i)
