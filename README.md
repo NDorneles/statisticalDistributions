@@ -12,4 +12,6 @@
   <li>Complete and incomplete Beta integral functions and theirs numerical methods of resolution</li>
   <li>Gamma distribution</li>
   <li>Beta distribution</li>
+  <li>t-Studente distribution</li>
+  <li>Squared-chi distribution</li>
 </ul>
